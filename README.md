@@ -1,2 +1,2 @@
-# IDBM_clone_project
+# IDBM_clone
 Devtown bootcamp project for IDBM_clone
